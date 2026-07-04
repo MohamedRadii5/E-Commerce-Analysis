@@ -85,9 +85,6 @@ The clean data is ready for exploratory data analysis (EDA) and business intelli
 
 ---
 
-## 🛠️ How to Run the Project
 
-1. **Clone the Repository:**
-   ```bash
    git clone [https://github.com/your-username/quick-commerce-analysis.git](https://github.com/your-username/quick-commerce-analysis.git)
    cd quick-commerce-analysis
